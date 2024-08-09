@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fc0fce9-0bfe-4924-a8a5-deed60eeca8a</dc:identifier>
+        <dc:title>Encyclopedia of Diets</dc:title>
+        <dc:creator opf:file-as="Health, A Guide to &amp; Nutrition ( PDFDrive )" opf:role="aut">A Guide to Health</dc:creator>
+        <dc:creator opf:file-as="Health, A Guide to &amp; Nutrition ( PDFDrive )" opf:role="aut">Nutrition ( PDFDrive )</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-09T19:50:32.398648+00:00"/>
+        <meta name="calibre:title_sort" content="Encyclopedia of Diets"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0ddbb7e-089f-471f-acac-67b75aec5cda</dc:identifier>
+        <dc:title>Electric Power Generation, Transmission, and Distribution, Third Edition, 3rd Edition</dc:title>
+        <dc:creator opf:file-as="Grigsby, Leonard" opf:role="aut">Leonard Grigsby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-15T19:52:44.528386+00:00</dc:date>
+        <dc:description>&lt;p&gt;Featuring contributions from worldwide leaders in the field, the carefully crafted Electric Power Generation, Transmission, and Distribution, Third Edition (part of the five-volume set, The Electric Power Engineering Handbook) provides convenient access to detailed information on a diverse array of power engineering topics. Updates to nearly every chapter keep this book at the forefront of developments in modern power systems, reflecting international standards, practices, and technologies. Topics covered include: Electric power generation: nonconventional methods Electric power generation: conventional methods Transmission system Distribution systems Electric power utilization Power quality L.L. Grigsby, a respected and accomplished authority in power engineering, and section editors Saifur Rahman, Rama Ramakumar, George Karady, Bill Kersting, Andrew Hanson, and Mark Halpin present substantially new and revised material, giving readers up-to-date information on core areas. These include advanced energy technologies, distributed utilities, load characterization and modeling, and power quality issues such as power system harmonics, voltage sags, and power quality monitoring. With six new and 16 fully revised chapters, the book supplies a high level of detail and, more importantly, a tutorial style of writing and use of photographs and graphics to help the reader understand the material. New chapters cover: Water Transmission Line Reliability Methods High Voltage Direct Current Transmission System Advanced Technology High-Temperature Conduction Distribution Short-Circuit Protection Linear Electric Motors A volume in the Electric Power Engineering Handbook, Third Edition. Other volumes in the set: K12648 Power Systems, Third Edition (ISBN: 9781439856338) K13917 Power System Stability and Control, Third Edition (ISBN: 9781439883204) K12650 Electric Power Substations Engineering, Third Edition (ISBN: 9781439856383) K12643 Electric Power Transformer Engineering, Third Edition (ISBN: 9781439856291).&lt;/p&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9FNBzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Front Matter</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:04.046718+00:00"/>
+        <meta name="calibre:title_sort" content="Electric Power Generation, Transmission, and Distribution, Third Edition, 3rd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

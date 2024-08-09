@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6875d446-d04e-4698-9773-8b079b37f597</dc:identifier>
+        <dc:title>Strategic Marketing: Planning and Control</dc:title>
+        <dc:creator opf:file-as="Drummond, Graeme &amp; Ensor, John &amp; Ashford, Ruth" opf:role="aut">Graeme Drummond</dc:creator>
+        <dc:creator opf:file-as="Drummond, Graeme &amp; Ensor, John &amp; Ashford, Ruth" opf:role="aut">John Ensor</dc:creator>
+        <dc:creator opf:file-as="Drummond, Graeme &amp; Ensor, John &amp; Ashford, Ruth" opf:role="aut">Ruth Ashford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-15T19:55:07.760600+00:00</dc:date>
+        <dc:description>&lt;p&gt;The completely revised and updated 3rd edition of the hugely successful Strategic Marketing: planning and control continues to provide a concise yet comprehensive synthesis of the key strategic marketing concepts. The text cuts through the complexity and jargon surrounding the subject and is tightly written to accommodate the reading time pressures on students. A clear, comprehensive and user-friendly text it provides an unrivalled digest of the tools, techniques and knowledge required to understand strategic marketing. Covering contemporary issues by exploring current developments in marketing theory and practice. It offers- - Coverage of key developments in customer relationship management, business ethics, market-led orientation and resource/asset-based approaches to internal analysis and planning- A highly exam focused approach which has been class tested and refined- A new chapter offering a 'problem-based learning' (PBL) approach to the subject- Thoroughly revised and updated case studies and vignettes of real world best  practice throughout the text Now established as one of the leading texts in the field Strategic Marketing 3rd edition will continue to be an essential learning tool for CIM students and marketing undergraduates and postgraduates. It will also be ideal for marketing professionals who want to improve their strategic knowledge and those on relevant executive courses.&lt;/p&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780750682718</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oI3jg0_stYsC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sales &amp; Selling</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>9780080561219</dc:subject>
+        <dc:subject>0080561217</dc:subject>
+        <dc:subject>9780750682718</dc:subject>
+        <dc:subject>075068271X</dc:subject>
+        <dc:subject>Marketing</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:41:48.859842+00:00"/>
+        <meta name="calibre:title_sort" content="Strategic Marketing: Planning and Control"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

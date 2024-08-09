@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e273ff2-ca33-4fe7-85d0-db8edb52d32c</dc:identifier>
+        <dc:title>Friedrich Hegel: The Biography of the Most Influential German Idealism Philosopher, His Logic, Mind, Right and Law</dc:title>
+        <dc:creator opf:file-as="Library, United" opf:role="aut">United Library</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-03T19:56:11.465266+00:00</dc:date>
+        <dc:description>&lt;p&gt;Friedrich Hegel's readers are invited to embark on an intellectual odyssey into the life and groundbreaking ideas of one of the most influential figures in the history of philosophy. Born in 1770 in Stuttgart, Germany, during a time of profound intellectual and political upheaval, Hegel emerged as a towering figure of German idealism and 19th-century philosophy, leaving an indelible mark on a wide spectrum of philosophical domains. This meticulously researched biography traces Hegel's life, revealing the profound impact of historical events such as the French Revolution and the Napoleonic wars on his philosophical development. His works, including "The Phenomenology of Spirit" and "The Science of Logic," are explored in depth, showcasing his profound insights into metaphysics, epistemology, ontology, and the interplay between reason and freedom. Hegel's dialectical-speculative approach, rooted in the principle of immanence, is carefully dissected, highlighting his commitment to addressing the dualisms that plagued modern philosophy. He emphasizes that reason and freedom are historical achievements, not innate qualities, and that even a priori categories must undergo empirical verification. At the core of Hegel's philosophy is the notion of free self-determination, which he argues is the essence of humanity. This profound insight is intricately woven into his exploration of the relationship between logic, nature, and spirit, culminating in the concept of the "identity of identity and non-identity.&lt;/p&gt;
+
+&lt;p&gt;" This book offers readers a deep understanding of Hegel's philosophy and its enduring relevance in contemporary philosophical discourse. It is a captivating journey through the mind of a philosopher who sought to unravel the complexities of existence and human nature, leaving an indomitable legacy that continues to shape the world of philosophy today.&lt;/p&gt;</dc:description>
+        <dc:publisher>United Library</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">9464900857</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789464900859</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nvhZ0AEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Philosophers</dc:subject>
+        <dc:subject>Educators</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:37.855217+00:00"/>
+        <meta name="calibre:title_sort" content="Friedrich Hegel: The Biography of the Most Influential German Idealism Philosopher, His Logic, Mind, Right and Law"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

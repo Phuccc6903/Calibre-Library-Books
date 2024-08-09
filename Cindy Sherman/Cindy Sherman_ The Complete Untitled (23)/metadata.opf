@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90cf4f07-f6b7-4488-b6cc-661ae7d912b2</dc:identifier>
+        <dc:title>Cindy Sherman: The Complete Untitled Film Stills</dc:title>
+        <dc:creator opf:file-as="Sherman, Cindy" opf:role="aut">Cindy Sherman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-15T19:56:42.373579+00:00</dc:date>
+        <dc:description>&lt;p&gt;The photobook that defined a generation: 69 black-and-white photographs in Cindy Sherman's seminal cinematic style, made between 1977 and 1980Cindy Sherman's Untitled Film Stills, a series of 69 black-and-white photographs created between 1977 and 1980, is widely seen as one of the most original and influential achievements in recent art. Witty, provocative and searching, this lively catalogue of female roles inspired by the movies crystallizes widespread concerns in our culture, examining the ways we shape our personal identities and the role of the mass media in our lives. Sherman began making these pictures in 1977 when she was 23 years old. The first six were an experiment: fan-magazine glimpses into the life (or roles) of an imaginary blond actress, played by Sherman herself. The photographs look like movie stills--or perhaps publicity pix--purporting to catch the blond bombshell in unguarded moments at home. The protagonist is shown preening in the kitchen and lounging in the bedroom. Onto something big, Sherman tried other characters in other roles: the chic starlet at her seaside hideaway, the luscious librarian, the domesticated sex kitten, the hot-blooded woman of the people, the ice-cold sophisticate and a can-can line of other stereotypes. She eventually completed the series in 1980. She stopped, she has explained, when she ran out of clichés. Other artists had drawn upon popular culture but Sherman's strategy was new. For her the pop-culture image was not a subject (as it had been for Walker Evans) or raw material (as it had been for Andy Warhol) but a whole artistic vocabulary, ready-made. Her film stills look and function just like the real ones--those 8 x 10 glossies designed to lure us into a drama we find all the more compelling because we know it isn't real. In the Untitled Film Stills there are no Cleopatras, no ladies on trains, no women of a certain age. There are, of course, no men. The 69 solitary heroines map a particular constellation of fictional femininity that took hold in postwar America--the period of Sherman's youth and the starting point for our contemporary mythology. In finding a form for her own sensibility, Sherman touched a sensitive nerve in the culture at large. Although most of the characters are invented, we sense right away that we already know them. That twinge of instant recognition is what makes the series tick and it arises from Cindy Sherman's uncanny poise. There is no wink at the viewer, no open irony, no camp. In 1995, The Museum of Modern Art purchased the series from the artist, preserving the work in its entirety. This book marks the first time that the complete series will be published as a unified work, with Sherman herself arranging the pictures in sequence.&lt;/p&gt;</dc:description>
+        <dc:publisher>The Museum of Modern Art</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Zyqv6HDYKOoC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780870705076</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Collections; Catalogs; Exhibitions</dc:subject>
+        <dc:subject>Artists' Books</dc:subject>
+        <dc:subject>Museums; Tours; Points of Interest</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Feminist</dc:subject>
+        <dc:subject>Lgbtq+</dc:subject>
+        <dc:subject>Photography</dc:subject>
+        <dc:subject>Individual Photographers</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:37.528938+00:00"/>
+        <meta name="calibre:title_sort" content="Cindy Sherman: The Complete Untitled Film Stills"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

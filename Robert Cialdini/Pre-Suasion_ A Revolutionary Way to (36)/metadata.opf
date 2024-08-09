@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c682db6f-ee3e-4b1b-b84c-18764f0cdf2a</dc:identifier>
+        <dc:title>Pre-Suasion: A Revolutionary Way to Influence and Persuade</dc:title>
+        <dc:creator opf:file-as="Cialdini, Robert" opf:role="aut">Robert Cialdini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-06T19:53:44.296924+00:00</dc:date>
+        <dc:description>&lt;p&gt;The acclaimed New York Times and Wall Street Journal bestseller from Robert Cialdini—“the foremost expert on effective persuasion” (Harvard Business Review)—explains how it’s not necessarily the message itself that changes minds, but the key moment before you deliver that message.&lt;/p&gt;
+
+&lt;p&gt;What separates effective communicators from truly successful persuaders? With the same rigorous scientific research and accessibility that made his Influence an iconic bestseller, Robert Cialdini explains how to prepare people to be receptive to a message before they experience it. Optimal persuasion is achieved only through optimal pre-suasion. In other words, to change “minds” a pre-suader must also change “states of mind.” Named a “Best Business Books of 2016” by the Financial Times, and “compelling” by The Wall Street Journal, Cialdini’s Pre-Suasion draws on his extensive experience as the most cited social psychologist of our time and explains the techniques a person should implement to become a master persuader. Altering a listener’s attitudes, beliefs, or experiences isn’t necessary, says Cialdini—all that’s required is for a communicator to redirect the audience’s focus of attention before a relevant action. From studies on advertising imagery to treating opiate addiction, from the annual letters of Berkshire Hathaway to the annals of history, Cialdini outlines the specific techniques you can use on online marketing campaigns and even effective wartime propaganda. He illustrates how the artful diversion of attention leads to successful pre-suasion and gets your targeted audience primed and ready to say, “Yes.” His book is “an essential tool for anyone serious about science based business strategies…and is destined to be an instant classic. It belongs on the shelf of anyone in business, from the CEO to the newest salesperson” (Forbes).&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">RmOdCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781501109812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Consumer Behavior</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Negotiating</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:02.438114+00:00"/>
+        <meta name="calibre:title_sort" content="Pre-Suasion: A Revolutionary Way to Influence and Persuade"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

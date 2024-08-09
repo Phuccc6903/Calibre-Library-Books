@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">191b472d-0eb7-4438-9471-482a999a48b6</dc:identifier>
+        <dc:title>Boundaries: Participants Guide--Revised : When to Say Yes, How to Say No to Take Control of Your Life</dc:title>
+        <dc:creator opf:file-as="Cloud, Henry &amp; Townsend, John Sims" opf:role="aut">Henry Cloud</dc:creator>
+        <dc:creator opf:file-as="Cloud, Henry &amp; Townsend, John Sims" opf:role="aut">John Sims Townsend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-30T20:00:35.152188+00:00</dc:date>
+        <dc:description>&lt;p&gt;Healthy relationships depend on maintaining effective personal boundaries. But many people don't know where to start. The New York Times bestselling book Boundaries has helped millions understand how to set boundaries in a loving way that builds relationships. Drawing on principles from the Bible, the Boundaries Participant's Guide takes small groups on a journey of discovery and practical application so that you can answer tough questions like: Why do I feel guilty about setting clear boundaries?What if the boundaries I set hurt the other person?Is it difficult for me to hear no from others?What are examples of legitimate boundaries at work and home?How can I have good boundaries online?As a participant, you'll learn how to live more fully and display truth and love more freely. Each of these nine interactive sessions corresponds with a video presentation by Cloud and Townsend (companion DVD, sold separately).&lt;/p&gt;
+
+&lt;p&gt;This Participant's Guide is packed with insights, exercises, and group discussion questions that can profoundly improve the quality of your relationships in every sphere of life--marriage, family, friendships, church, and the workplace.&lt;/p&gt;
+
+&lt;p&gt;Sessions include: What is a Boundary?Understanding BoundariesThe Laws of Boundaries, Part IThe Laws of Boundaries, Part IIMyths about BoundariesBoundary Conflicts, Part IBoundary Conflicts, Part IIBoundary Successes, Part IBoundary Successes, Part IINow revised to enhance both your group experience and personal growth, this Participant's Guide features insights, exercises, and all the practical resources for maximizing both group participation and personal growth.&lt;/p&gt;</dc:description>
+        <dc:publisher>Zondervan</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">1sY6PwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780310278085</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Conflict Resolution</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Christian Living</dc:subject>
+        <dc:subject>Inspirational</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Spiritual Growth</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:46:07.827203+00:00"/>
+        <meta name="calibre:title_sort" content="Boundaries: Participants Guide--Revised : When to Say Yes, How to Say No to Take Control of Your Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

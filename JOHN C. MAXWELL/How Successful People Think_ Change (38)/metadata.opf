@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1d0eeee-5fe0-413f-8fda-cd089aaae16d</dc:identifier>
+        <dc:title>How Successful People Think: Change Your Thinking, Change Your Life</dc:title>
+        <dc:creator opf:file-as="MAXWELL, JOHN C." opf:role="aut">JOHN C. MAXWELL</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-01T19:53:17.818209+00:00</dc:date>
+        <dc:description>&lt;p&gt;Gather successful people from all walks of life -- what would they have in common? The way they think! Now you can think as they do and revolutionize your work and life! A Wall Street Journal bestseller, How Successful People Think is the perfect, compact read for today's fast-paced world. America's leadership expert John C. Maxwell will teach you how to be more creative and when to question popular thinking. You'll learn how to capture the big picture while focusing your thinking. You'll find out how to tap into your creative potential, develop shared ideas, and derive lessons from the past to better understand the future. With these eleven keys to more effective thinking, you'll clearly see the path to personal success.&lt;/p&gt;
+
+&lt;p&gt;The 11 keys to successful thinking include:Big-Picture Thinking - seeing the world beyond your own needs and how that leads to great ideasFocused Thinking - removing mental clutter and distractions to realize your full potentialCreative Thinking - thinking in unique ways and making breakthroughsShared Thinking - working with others to compound resultsReflective Thinking - looking at the past to gain a better understanding of the future.&lt;/p&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7Vs5AQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781599952154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Christian Living</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:03.165958+00:00"/>
+        <meta name="calibre:title_sort" content="How Successful People Think: Change Your Thinking, Change Your Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5ba44ab-beea-4915-82fb-02b25dd7a111</dc:identifier>
+        <dc:title>Advanced Methods of Structural Analysis</dc:title>
+        <dc:creator opf:file-as="Karnovsky, Igor A. &amp; Lebed, Olga" opf:role="aut">Igor A. Karnovsky</dc:creator>
+        <dc:creator opf:file-as="Karnovsky, Igor A. &amp; Lebed, Olga" opf:role="aut">Olga Lebed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-07T19:54:25.889947+00:00</dc:date>
+        <dc:description>&lt;p&gt;Advanced Methods of Structural Analysis aims to help its readers navigate through the vast field of structural analysis. The book aims to help its readers master the numerous methods used in structural analysis by focusing on the principal concepts, as well as the advantages and disadvantages of each method. The end result is a guide to mastering the many intricacies of the plethora of methods of structural analysis. The book differentiates itself from other volumes in the field by focusing on the following: • Extended analysis of beams, trusses, frames, arches and cables • Extensive application of influence lines for analysis of structures • Simple and effective procedures for computation of deflections • Introduction to plastic analysis, stability, and free vibration analysis Authors Igor A. Karnovsky and Olga Lebed have crafted a must-read book for civil and structural engineers, as well as researches and students with an interest in perfecting structural analysis. Advanced Methods of Structural Analysis also offers numerous example problems, accompanied by detailed solutions and discussion of the results.&lt;/p&gt;</dc:description>
+        <dc:publisher>Springer US</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781441910462</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yJayDAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>1441910468</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Civil</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Meteorology &amp; Climatology</dc:subject>
+        <dc:subject>Environmental</dc:subject>
+        <dc:subject>9781441910462</dc:subject>
+        <dc:subject>Mechanical</dc:subject>
+        <dc:subject>Earth Sciences</dc:subject>
+        <dc:subject>Mechanics</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:01.595303+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced Methods of Structural Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42cb796e-6a84-4445-940d-06f8b725e91a</dc:identifier>
+        <dc:title>Fury on Earth: A Biography of Wilhelm Reich</dc:title>
+        <dc:creator opf:file-as="Sharaf, Myron" opf:role="aut">Myron Sharaf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-03-22T19:57:22.010680+00:00</dc:date>
+        <dc:description>&lt;p&gt;Written by a former patient, student, and assistant of Wilhelm Reich, this biography recounts the life and career of the controversial psychoanalyst and argues that most forms of therapy practiced today include some idea that Reich pioneered"Interweaving a thorough examination of Reich's psychiatric theories and techniques, scientific experiments and grandiose claims, with his stormy person life and deteriorating mental balance, [Sharaf] achieves an impressive portrait of a complicated, tragic figure. . . . His work is a psycho-biography on the order of Erikson's studies of Luther and Gandhi, for he analyzes Reich's achievements in light of his personal conflicts, achieving a unified portrait of a highly complex innovator.&lt;/p&gt;
+
+&lt;p&gt;"--Los Angeles Times"What is amazing is that Sharaf has managed to turn a definitive biography into such absolutely compulsive reading.&lt;/p&gt;
+
+&lt;p&gt;"--Colin Wilson, author of The Quest for Wilhelm Reich&lt;/p&gt;</dc:description>
+        <dc:publisher>Hachette Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">eYrDswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780306805752</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0306805758</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Psychiatry</dc:subject>
+        <dc:subject>Medical (Incl. Patients)</dc:subject>
+        <dc:subject>Social Scientists &amp; Psychologists</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Psychotherapy</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:36.462993+00:00"/>
+        <meta name="calibre:title_sort" content="Fury on Earth: A Biography of Wilhelm Reich"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

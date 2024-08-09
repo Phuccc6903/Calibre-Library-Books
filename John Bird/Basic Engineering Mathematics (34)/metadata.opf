@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ef6edfc-6ad9-4ba7-8076-4a342d6f577b</dc:identifier>
+        <dc:title>Basic Engineering Mathematics</dc:title>
+        <dc:creator opf:file-as="Bird, John" opf:role="aut">John Bird</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T19:54:09.981105+00:00</dc:date>
+        <dc:description>&lt;p&gt;Unlike most engineering maths texts, this book does not assume a firm grasp of GCSE maths, and unlike low-level general maths texts, the content is tailored specifically to the needs of engineers. The result is a unique book written for engineering students that takes a starting point below GCSE level. Basic Engineering Mathematics is therefore ideal for students of a wide range of abilities, especially for those who find the theoretical side of mathematics difficult.  Now in its fifth edition, Basic Engineering Mathematics is an established textbook that all students requiring a fundamental knowledge of mathematics of engineering with find essential reading. The content has been designed to meet the needs of students studying Level 2 courses, including GCSE Engineering, the Diploma, and BTEC First specifications. Level 3 students will also find this text to be a useful resource for getting to grips with essential mathematics concepts, because the compulsory topics in BTEC National and A Level Engineering courses are also fully addressed. John Bird's approach is based on numerous worked examples, supported by 750 worked problems and 1550 further problems contained within exercises throughout the text. In addition, 14 revision tests are included at regular intervals. Ideal for use as tests or homework, full solutions to the revision tests are supplied on the accompanying instructor's website.&lt;/p&gt;</dc:description>
+        <dc:publisher>Newnes</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781856176972</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NDXJwAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Newnes</dc:subject>
+        <dc:subject>9781856176972</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>2010</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:01.791583+00:00"/>
+        <meta name="calibre:title_sort" content="Basic Engineering Mathematics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

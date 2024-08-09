@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea2217e3-b3ce-475f-99c5-226e2d4e5469</dc:identifier>
+        <dc:title>Higher Engineering Mathematics</dc:title>
+        <dc:creator opf:file-as="Bird, J. O." opf:role="aut">J. O. Bird</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T19:47:44.900828+00:00</dc:date>
+        <dc:description>&lt;p&gt;Now in its sixth edition, Higher Engineering Mathematicsis an established textbook that has helped many thousands of students to gain exam success. John Bird's approach is ideal for students from a wide range of academic backgrounds, and can be worked through at the student's own pace. Mathematical theories are examined in the simplest of terms, supported by practical examples and applications from a wide variety of engineering disciplines, to ensure that the reader can apply theory to practice. This extensive and thorough topic coverage makes this an ideal book for a range of university degree modules, foundation degrees, and HNC/D units. This new edition of Higher Engineering Mathematicshas been further extended with topics specifically written to help first year engineering degree students and those following foundation degrees. New material has been added on logarithms and exponential functions, binary, octal and hexadecimal numbers, vectors and methods of adding alternating waveforms. This book caters specifically for the engineering mathematics units of the Higher National Engineering schemes from Edexcel, including the core unit Analytical methods for Engineers, and two optional units: Further Analytical Methods for Engineers and Engineering Mathematics, common to both the electrical/electronic engineering and mechanical engineering pathways. A mapping grid is included showing precisely which topics are required for the learning outcomes of each unit. Higher Engineering Mathematics contains examples, supported by 900 worked problems and 1760 further problems contained within exercises throughout the text. In addition, 19 revision tests, which are available to use as tests or as homework are included at regular intervals. exadecimal numbers, vectors and methods of adding alternating waveforms. This book caters specifically for the engineering mathematics units of the Higher National Engineering schemes from Edexcel, including the core unit Analytical methods for Engineers, and two optional units: Further Analytical Methods for Engineers and Engineering Mathematics, common to both the electrical/electronic engineering and mechanical engineering pathways. A mapping grid is included showing precisely which topics are required for the learning outcomes of each unit. Higher Engineering Mathematics contains examples, supported by 900 worked problems and 1760 further problems contained within exercises throughout the text. In addition, 19 revision tests, which are available to use as tests or as homework are included at regular intervals.&lt;/p&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781856177672</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lWv9ZUsyb9EC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Advanced</dc:subject>
+        <dc:subject>Civil</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <dc:subject>185617767X</dc:subject>
+        <dc:subject>9781856177672</dc:subject>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>9780080962122</dc:subject>
+        <dc:subject>Young Adult Nonfiction</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Engineering (General)</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:46.280744+00:00"/>
+        <meta name="calibre:title_sort" content="Higher Engineering Mathematics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

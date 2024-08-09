@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b9100cd-a3a4-4d2a-bac0-8292a8345677</dc:identifier>
+        <dc:title>Encyclopedia of Psychology and Religion</dc:title>
+        <dc:creator opf:file-as="David A. Leeming, Kathryn Madden, Stanton Marlan" opf:role="aut">David A. Leeming, Kathryn Madden, Stanton Marlan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-25T03:53:11+00:00</dc:date>
+        <dc:description>Springer</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>ISBN-13:</dc:subject>
+        <dc:subject>9780387718019</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:35.600165+00:00"/>
+        <meta name="calibre:title_sort" content="Encyclopedia of Psychology and Religion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

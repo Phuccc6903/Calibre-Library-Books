@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e53eebe8-cf73-4274-b251-5e5e5dde6ce4</dc:identifier>
+        <dc:title>Left and Right in Global Politics</dc:title>
+        <dc:creator opf:file-as="NOËL, ALAIN &amp; THÉRIEN, JEAN-PHILIPPE" opf:role="aut">ALAIN NOËL</dc:creator>
+        <dc:creator opf:file-as="NOËL, ALAIN &amp; THÉRIEN, JEAN-PHILIPPE" opf:role="aut">JEAN-PHILIPPE THÉRIEN</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-29T19:50:06.102331+00:00</dc:date>
+        <dc:description>&lt;p&gt;Few notions are as universal as the idea of a left-right divide in politics. Despite its death being frequently foretold, the left-right metaphor remains the most common lens through which to interpret political life locally, nationally and globally. Left and Right in Global Politics argues that the left-right divide connects these different levels into a world political debate. Interpreting the left-right dichotomy as an enduring debate about equality, Noël and Thérien analyse opinion polls and social discourses to demonstrate how this debate shapes both individual and collective views of public affairs. Setting their findings in a historical perspective, they then show that for more than two centuries the conflict between progressives and conservatives has structured both domestic and international politics. They conclude by discussing the implications of their argument for the analysis of world politics, and contend that the left-right opposition is here to stay.&lt;/p&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">EbOdQAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780521705837</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Comparative Politics</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Economic Policy</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:18.818501+00:00"/>
+        <meta name="calibre:title_sort" content="Left and Right in Global Politics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

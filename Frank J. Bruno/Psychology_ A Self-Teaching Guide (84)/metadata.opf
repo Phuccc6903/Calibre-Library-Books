@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a23d7211-21d7-4eaf-87bd-9ec76f0fc91e</dc:identifier>
+        <dc:title>Psychology: A Self-Teaching Guide</dc:title>
+        <dc:creator opf:file-as="Bruno, Frank J." opf:role="aut">Frank J. Bruno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-08-14T19:59:40.857842+00:00</dc:date>
+        <dc:description>&lt;p&gt;* A complete course, from brain biology to abnormal psychology  * Hundreds of questions and many review tests  * Key concepts and terms defined and explained   Master key concepts. Answer challenging questions. Prepare for exams. Learn at your own pace.  What are the two basic psychological dimensions of emotions? How do you define abnormal behavior? Is extrasensory perception real? What is Viktor Frankl known for? With Psychology: A Self-Teaching Guide, you'll discover the answers to these questions and many more.  Frank Bruno explains all the major psychological theories and terms in this book, covering perception, motivation, thinking, personality, sensation, intelligence, research methods, and much more. He presents the foundations of psychology and the biology of behavior; explores how children develop into adults and the psychological factors that make us individuals; and examines various mental disorders and the types of therapy used to treat them. The step-by-step, Q&amp;amp;A format of Psychology makes it fully accessible, providing an easily understood, comprehensive overview of the topic.  Like the other popular Self-Teaching Guides, Psychology allows you to build gradually on what you have learned-at your own pace. Questions and self-tests reinforce the information in each chapter and allow you to skip ahead or focus on specific areas of concern. Packed with useful, up-to-date information, this clear, concise volume is a valuable learning tool and reference source for anyone who seeks a greater understanding of human behavior.&lt;/p&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780471443957</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NZK0NAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>0471443956</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:46:09.059935+00:00"/>
+        <meta name="calibre:title_sort" content="Psychology: A Self-Teaching Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

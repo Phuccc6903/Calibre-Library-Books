@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c16629f6-a593-47e7-a1be-17a2380c0c8c</dc:identifier>
+        <dc:title>When the Moon Split: A Biography of Prophet Muhammad</dc:title>
+        <dc:creator opf:file-as="Mubarakpuri, Safiur-Rahman" opf:role="aut">Safiur-Rahman Mubarakpuri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A miracle is something extraordinary that is beyond human ability, and it does not happen except to one of the prophets, and among the miracles of prophecy the moon was split into two halves, so that God Almighty would prove to the unbelievers the truthfulness of Muhammad and that he is a messenger from him, and this is what modern science has proven. The biography of the Messenger, may God bless him and grant him peace, is a noble and lofty subject. The heart of every Muslim is filled with the love of the Prophet Muhammad (peace be upon him). The love and respect of a person depends on the benefits he derives from him.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Compiled By&lt;/strong&gt; : Safiur-Rahman Mubarakpuri&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Edited And Translated&lt;/strong&gt; By: Tabassum Siraj,&lt;br /&gt;
+Michael Richardson, And Badr Azimabadi&lt;/p&gt;</dc:description>
+        <dc:publisher>Independently published</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B09HKWXJCV</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9798490672791</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>and how the Prophet Muhammad (Peace be upon him) was chosen by Allah to receive the divine revelation. You also learn about the hardships the Prophet (Peace be upon him) and his companions faced</dc:subject>
+        <dc:subject>and how they eventually succeeded with Allah's help.</dc:subject>
+        <dc:subject>The biography of the Prophet (Peace be upon him) is a very noble and exalted subject by which Muslims learn about the rise of Islam</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:36.812173+00:00"/>
+        <meta name="calibre:title_sort" content="When the Moon Split: A Biography of Prophet Muhammad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

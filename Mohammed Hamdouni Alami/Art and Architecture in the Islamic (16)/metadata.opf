@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e093fa4a-fca6-41d3-a804-14fa2c772c1b</dc:identifier>
+        <dc:title>Art and Architecture in the Islamic Tradition: Aesthetics, Politics and Desire in Early Islam</dc:title>
+        <dc:creator opf:file-as="Alami, Mohammed Hamdouni" opf:role="aut">Mohammed Hamdouni Alami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-30T19:57:51.690454+00:00</dc:date>
+        <dc:description>&lt;p&gt;What is 'art' in the sense of the Islamic tradition? Mohammed Hamdouni Alami argues that Islamic art has historically been excluded from Western notions of art; that the Western aesthetic tradition's preoccupation with the human body has meant that Islamic and Western art being perceived as inherently at odds. However, the move away from this 'anthropomorphic aesthetic' in Western art movements, such as modern abstract and constructivist painting, have presented the opportunity for new ways of viewing and evaluating Islamic art and architecture. Drawing upon classical Arabic literature, philosophy, poetry, medicine and theology, along with contemporary Western art theory, the author uncovers a specific Islamic theoretical vision of art and architecture based on poetic practice, politics, desire and the 'gaze'. In so doing, he addresses the lack of recognition given to early Islamic thought and aesthetics in comparison with other historical periods and traditions.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bloomsbury Academic</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781848855441</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5hudcQAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Art &amp; Politics</dc:subject>
+        <dc:subject>Criticism &amp; Theory</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Middle Eastern</dc:subject>
+        <dc:subject>I.B. Tauris</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:27.723229+00:00"/>
+        <meta name="calibre:title_sort" content="Art and Architecture in the Islamic Tradition: Aesthetics, Politics and Desire in Early Islam"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

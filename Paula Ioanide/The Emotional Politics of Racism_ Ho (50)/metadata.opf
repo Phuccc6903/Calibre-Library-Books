@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10a91823-67ed-48a3-adba-a2b524570a4d</dc:identifier>
+        <dc:title>The Emotional Politics of Racism: How Feelings Trump Facts in an Era of Colorblindness</dc:title>
+        <dc:creator opf:file-as="Ioanide, Paula" opf:role="aut">Paula Ioanide</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-20T19:50:46.038067+00:00</dc:date>
+        <dc:description>&lt;p&gt;With stop-and-frisk laws, new immigration policies, and cuts to social welfare programs, majorities in the United States have increasingly supported intensified forms of punishment and marginalization against Black, Latino, Arab and Muslim people in the United States, even as a majority of citizens claim to support "colorblindness" and racial equality. With this book, Paula Ioanide examines how emotion has prominently figured into these contemporary expressions of racial discrimination and violence. How U.S. publics dominantly feel about crime, terrorism, welfare, and immigration often seems to trump whatever facts and evidence say about these politicized matters. Though four case studies—the police brutality case of Abner Louima; the exposure of torture at Abu Ghraib; the demolition of New Orleans public housing units following Hurricane Katrina; and a proposed municipal ordinance to deny housing to undocumented immigrants in Escondido, CA—Ioanide shows how racial fears are perpetuated, and how these widespread fears have played a central role in justifying the expansion of our military and prison system and the ongoing divestment from social welfare. But Ioanide also argues that within each of these cases there is opportunity for new mobilizations, for ethical witnessing: we must also popularize desires for justice and increase people's receptivity to the testimonies of the oppressed by reorganizing embodied and unconscious structures of feeling.&lt;/p&gt;</dc:description>
+        <dc:publisher>Stanford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">0c3OBwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780804795487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Ethnic Studies</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:16.645026+00:00"/>
+        <meta name="calibre:title_sort" content="Emotional Politics of Racism: How Feelings Trump Facts in an Era of Colorblindness, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

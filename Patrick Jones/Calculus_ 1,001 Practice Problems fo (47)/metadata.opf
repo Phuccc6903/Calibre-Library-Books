@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13331598-1360-4b14-8623-456c460d9f55</dc:identifier>
+        <dc:title>Calculus: 1,001 Practice Problems for Dummies (+ Free Online Practice)</dc:title>
+        <dc:creator opf:file-as="Jones, Patrick" opf:role="aut">Patrick Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-04T19:51:26.022441+00:00</dc:date>
+        <dc:description>&lt;p&gt;Practice makes perfect—and helps deepen your understanding of calculus 1001 Calculus Practice Problems For Dummies takes you beyond the instruction and guidance offered in Calculus For Dummies, giving you 1001 opportunities to practice solving problems from the major topics in your calculus course. Plus, an online component provides you with a collection of calculus problems presented in multiple-choice format to further help you test your skills as you go.  Gives you a chance to practice and reinforce the skills you learn in your calculus course Helps you refine your understanding of calculus Practice problems with answer explanations that detail every step of every problem  The practice problems in 1001 Calculus Practice Problems For Dummies range in areas of difficulty and style, providing you with the practice help you need to score high at exam time.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">oy8WBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781118496718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Calculus</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Teaching</dc:subject>
+        <dc:subject>Subjects</dc:subject>
+        <dc:subject>Pre-Calculus</dc:subject>
+        <dc:subject>Mathematical Analysis</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:05.761359+00:00"/>
+        <meta name="calibre:title_sort" content="Calculus: 1,001 Practice Problems for Dummies (+ Free Online Practice)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

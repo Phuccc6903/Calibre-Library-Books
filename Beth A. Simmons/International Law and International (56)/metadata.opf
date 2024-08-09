@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">335fd94c-6dd7-45f5-bec3-1a6a285e5e45</dc:identifier>
+        <dc:title>International Law and International Relations: An International Organization Reader (International Organization)</dc:title>
+        <dc:creator opf:file-as="Simmons, Beth A. &amp; Steinberg, Richard H." opf:role="aut">Beth A. Simmons</dc:creator>
+        <dc:creator opf:file-as="Simmons, Beth A. &amp; Steinberg, Richard H." opf:role="aut">Richard H. Steinberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-26T10:22:22+00:00</dc:date>
+        <dc:description>ISBN-13:    9780521861861</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>ISBN-13: 9780521861861</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:19.894238+00:00"/>
+        <meta name="calibre:title_sort" content="International Law and International Relations: An International Organization Reader (International Organization)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

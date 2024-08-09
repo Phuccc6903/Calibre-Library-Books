@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b6ecdb4-a120-4418-a9e0-65d827821ca5</dc:identifier>
+        <dc:title>Descartes: An Intellectual Biography</dc:title>
+        <dc:creator opf:file-as="Gaukroger, Stephen" opf:role="aut">Stephen Gaukroger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-03-30T19:57:44.489536+00:00</dc:date>
+        <dc:description>&lt;p&gt;René Descartes's insights into the nature of knowledge and the mind have inspired awe and debate through the centuries. But while philosophers have sought to understand the ramifications of his theories, they have paid much less attention to how, exactly, he arrived at his ideas. What twists and turns of his intellect brought him to his epochal conclusions? How did his personal ambitions and the social conditions of his era shape his thought? These questions and more are masterfully answered in Stephen Gaukroger's Descartes, a fascinating look at this most influential of all Renaissance thinkers. In his quest to retrace Descartes's development as a scientist and philosopher, Gaukroger leaves no stone unturned. From the great man's first book on music theory (Compendium Musicae) to his masterworks Discours, Essais, Meditationes, and Principia, from his study of mathematics while attending a Jesuit college at age ten, through his dying days in the service of Christina, Queen of Sweden, Descartes brims with penetrating and often surprising insights into the philosopher's life and work. We discover, for example, that he wasn't as concerned with developing an all-encompassing theory of knowledge as he was with establishing a natural philosophy that supported the teachings of Copernicus, a man whose work he deeply admired. We also learn that Descartes was willing to alter his publicly stated views to accommodate church doctrine--especially after witnessing Galileo's condemnation in 1633. We observe how his personal triumphs and failures--from his rumored nervous breakdown in 1614, to his joy at the popular reception of Discours and Essais, to his protracted and very public dispute with the implacable professor Voetius--affected his intellectual development. Along the way, Gaukroger details how Descartes's theories of metaphysics, mechanics, cognition, and cosmology have been both championed and distorted by philosophers of all stripes for over three hundred years. Packed with helpful diagrams and in-depth interpretations of Descartes's most celebrated works, the book also includes a useful chronology that highlights his important accomplishments and personal milestones. Descartes is an exhaustively detailed, magisterial look at the dazzling intellectual achievements of the father of modern philosophy. Splendidly written by a renowned authority on the subject, it will serve as the definitive guide to Descartes's thoughts, works, and life for years to come.&lt;/p&gt;</dc:description>
+        <dc:publisher>OUP Oxford</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780198239949</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">iJEUDAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Renaissance</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Religious</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>Philosophers</dc:subject>
+        <dc:subject>Individual Philosophers</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:36.073491+00:00"/>
+        <meta name="calibre:title_sort" content="Descartes: An Intellectual Biography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

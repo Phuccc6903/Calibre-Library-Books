@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1002609-b444-4578-bd75-e8dc88233967</dc:identifier>
+        <dc:title>International Political Economy: Perspectives on Global Power and Wealth, Fourth Edition</dc:title>
+        <dc:creator opf:file-as="A.Frieden, Jeffry &amp; A.Lake, David" opf:role="aut">Jeffry A.Frieden</dc:creator>
+        <dc:creator opf:file-as="A.Frieden, Jeffry &amp; A.Lake, David" opf:role="aut">David A.Lake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Social Sciences</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Social Sciences</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:41:48.435805+00:00"/>
+        <meta name="calibre:title_sort" content="International Political Economy: Perspectives on Global Power and Wealth, Fourth Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
