@@ -10,7 +10,10 @@
         <dc:publisher>UNKNOWN</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B07HM7LC41</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2024-08-09T19:42:04.383585+00:00"/>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:04+00:00"/>
         <meta name="calibre:title_sort" content="Data Visualization and Exploration with R: A practical guide to using R, RStudio, and Tidyverse for data visualization, exploration, and data science applications"/>
     </metadata>
     <guide>

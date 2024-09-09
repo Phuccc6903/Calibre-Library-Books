@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc1bc58a-0014-4434-8fe5-daa582e7b652</dc:identifier>
+        <dc:title>Practical Electronics for Inventors-McGraw-Hill TAB Electronics (2000)</dc:title>
+        <dc:creator opf:file-as="Paul Scherz" opf:role="aut">Paul Scherz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T12:01:00.320015+00:00"/>
+        <meta name="calibre:title_sort" content="Electronics, Practical Electronics for Inventors-McGraw-Hill TAB"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

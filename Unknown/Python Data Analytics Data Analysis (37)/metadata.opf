@@ -8,7 +8,9 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-08-20T03:31:40+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta name="calibre:timestamp" content="2024-08-09T19:42:02.663033+00:00"/>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:02+00:00"/>
         <meta name="calibre:title_sort" content="Python Data Analytics Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language ( PDFDrive )"/>
     </metadata>
     <guide>

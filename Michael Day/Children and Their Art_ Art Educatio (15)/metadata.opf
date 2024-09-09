@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff222c5b-3cb5-4630-ad93-ed949a25611b</dc:identifier>
+        <dc:title>Children and Their Art: Art Education for Elementary and Middle Schools</dc:title>
+        <dc:creator opf:file-as="Day, Michael &amp; Hurwitz, Al" opf:role="aut">Michael Day</dc:creator>
+        <dc:creator opf:file-as="Day, Michael &amp; Hurwitz, Al" opf:role="aut">Al Hurwitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A trusted guide and companion for current and future art educators, CHILDREN AND THEIR ART presents a professional approach to teaching art consistent with national standards for student learning. This Ninth Edition is targeted at middle level and elementary schools. The authors are experienced as art teachers in the public schools and have a broad knowledge about school art programs. The Ninth Edition provides updated developments in theory, research and practices, with a strong emphasis on how digital technology provides new ways of teaching art. The most comprehensive textbook available for teaching art education methods, CHILDREN AND THEIR ART covers all aspects of teaching art in the elementary and middle school classroom: the basic principles and goals of art education, the characteristics and needs of children as learners, the core principles of art as a subject--aesthetics, principles of design, art history, new developments in art media and technology. It also covers all aspects of instruction--curriculum planning, sample lessons, suggested readings, and internet resources. Among numerous updates throughout the text, the Ninth Edition features a brand-new chapter on new media in art education with 22 new images. It features the use of digital technology in elementary and middle school classrooms and examples of digital art created by students.&lt;/p&gt;</dc:description>
+        <dc:publisher>Cengage Learning</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">049591357X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780495913573</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:27+00:00"/>
+        <meta name="calibre:title_sort" content="Children and Their Art: Art Education for Elementary and Middle Schools"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

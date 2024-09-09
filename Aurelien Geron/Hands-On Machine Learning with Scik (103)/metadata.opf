@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43bd7c2c-ac83-4e1f-b40a-4bb3af84e27b</dc:identifier>
+        <dc:title>Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</dc:title>
+        <dc:creator opf:file-as="Géron, Aurélien" opf:role="aut">Aurélien Géron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-12T22:00:00+00:00</dc:date>
+        <dc:description>Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how. Using concrete examples, minimal theory, and two production-ready Python frameworks—scikit-learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks.</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XNKV5TS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T12:00:59.645245+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

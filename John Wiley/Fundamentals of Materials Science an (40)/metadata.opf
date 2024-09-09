@@ -7,18 +7,16 @@
         <dc:creator opf:file-as="Wiley, John &amp; Sons Canada, Limited" opf:role="aut">John Wiley</dc:creator>
         <dc:creator opf:file-as="Wiley, John &amp; Sons Canada, Limited" opf:role="aut">Sons Canada, Limited</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-07-21T19:52:55.187296+00:00</dc:date>
+        <dc:date>2008-07-21T19:52:55+00:00</dc:date>
         <dc:description>&lt;p&gt;Callister and Rethwisch's "Fundamentals of Materials Science and Engineering" "third edition" continues to take the integrated approach to the organization of topics. That is, one specific structure, characteristic, or property type at a time is discussed for all three basic material types--viz. metals, ceramics, and polymeric materials. This order of presentation allows for the early introduction of non-metals and supports the engineer's role in choosing materials based upon their characteristics.&lt;/p&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">pfSruAAACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780470430750</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Technology &amp; Engineering</dc:subject>
-        <dc:subject>Materials Science</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Science</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Mathematical Analysis</dc:subject>
         <dc:subject>Chemistry</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:42:03.467022+00:00"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:03+00:00"/>
         <meta name="calibre:title_sort" content="Fundamentals of Materials Science and Engineering: An Integrated Approach 3E With Ready Notes Lab Manual and WileyPlus Set"/>
     </metadata>
     <guide>

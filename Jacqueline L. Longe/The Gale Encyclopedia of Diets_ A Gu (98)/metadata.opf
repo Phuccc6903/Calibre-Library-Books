@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fc0fce9-0bfe-4924-a8a5-deed60eeca8a</dc:identifier>
+        <dc:title>The Gale Encyclopedia of Diets: A Guide to Health and Nutrition</dc:title>
+        <dc:creator opf:file-as="Longe, Jacqueline L." opf:role="aut">Jacqueline L. Longe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-15T11:33:47.532477+00:00</dc:date>
+        <dc:description>&lt;p&gt;The Gale Encyclopedia of Diets examines in two volumes special diets such as a Gluten-free or high protein diet, dieting and popular weight-loss programs such as the Atkins Diet, dietary concerns, nutritional basics, and some effects of a person's dietary choices on one's health. The Encyclopdia presents an overview of all topics in a standardized, balanced format. Not intended to be an endorsement of any one diet or lifestyle, the topics presented will be organized around the development and history of a diet, its basic principles, any key figures that influence the trend, and any public or regulatory concerns associated with the practice. Information will be provided across all age groups from infants to the elderly.&lt;/p&gt;</dc:description>
+        <dc:publisher>Thomson Gale</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">FgB-xwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781414429946</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:50:32+00:00"/>
+        <meta name="calibre:title_sort" content="Gale Encyclopedia of Diets: A Guide to Health and Nutrition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

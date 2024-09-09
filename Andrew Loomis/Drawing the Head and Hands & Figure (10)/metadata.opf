@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40c0caa3-0366-480a-a21a-3add8efc8552</dc:identifier>
+        <dc:title>Drawing the Head and Hands &amp; Figure Drawing (Box Set)</dc:title>
+        <dc:creator opf:file-as="Loomis, Andrew" opf:role="aut">Andrew Loomis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-10T09:35:27+00:00</dc:date>
+        <dc:description>&lt;p&gt;Collecting Drawing the Head and Hands and Figure Drawing for All Its Worth, this gorgeous box-set contains everything the art student needs to perfect drawing the human body, guided by master illustrator Andrew Loomis.&lt;/p&gt;
+
+&lt;p&gt;Revered among artists - including the great Norman Rockwell and comics superstar Alex Ross - for his mastery of figure drawing and clean, realist style, Loomis's hugely influential art instruction books have never been bettered. Hailed by the American Academy of Art as "one of the most brilliant contributions that figure drawing has ever received" Loomis's books are packed with beautiful examples to help you master anatomy and capture the human form at any age, in movement and at rest. For the first time, this attractive box set collects two of Loomis' most popular works to create the ultimate guide to drawing the human body. Containing Drawing the Head and Hands and Figure Drawing for All It's Worth, this set is perfect for students, amateur artists, and professionals alike.&lt;/p&gt;</dc:description>
+        <dc:publisher>Titan</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">zPlOEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789095340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Techniques Design</dc:subject>
+        <dc:subject>Drawing</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:25+00:00"/>
+        <meta name="calibre:title_sort" content="Drawing the Head and Hands &amp; Figure Drawing (Box Set)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

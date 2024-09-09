@@ -6,18 +6,16 @@
         <dc:title>Web Animation Using JavaScript: Develop &amp; Design</dc:title>
         <dc:creator opf:file-as="Shapiro, Julian" opf:role="aut">Julian Shapiro</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2015-03-13T19:45:30.731088+00:00</dc:date>
+        <dc:date>2015-03-13T19:45:30+00:00</dc:date>
         <dc:description>&lt;p&gt;We’ve come a long way since the days of flashing banner ads and scrolling news tickers. Today, the stunning motion design of iOS and Android dramatically improves a user’s experience — instead of detracting from it. The best sites and apps of today leverage animation to improve the feel and intuitiveness of their interfaces. Sites without animation are starting to feel antiquated.  This book provides you with a technical foundation to implement animation in a way that’s both visually stunning and programmatically maintainable. Throughout, we consider the balance between enriching a page with motion design while avoiding unnecessary flourishes  Readers will learn how to design loading sequences that ensure users stay fully engaged instead of tuning out, how to leverage simple physics principles to make apps respond naturally to users’ input (just like motion behaves in the real world), how to exploit CSS transforms to create rich depth in animations, and how to fully leverage JavaScript animation libraries like Velocity.js to streamline animation programming. From animation performance to theory, we cover everything needed to become a professional web animator. Whether you're a novice or professional web developer, this book is for everyone.  Why is all of this so important? Why is it worth your time to become a professional motion designer? For the same reason that designers spend hours perfecting their pages’ font and color combinations, motion designers perfect their animations’ transition and easing combinations: Refined products feel superior. They leave users whispering to themselves, “Wow, this is cool”, right before they turn to a friend and exclaim, “You gotta try this.”&lt;/p&gt;</dc:description>
         <dc:publisher>Peachpit Press</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B00UNKXVDU</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">4Wo0BwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00UNKXVDU</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780134096674</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
-        <dc:subject>Internet</dc:subject>
-        <dc:subject>Web Design</dc:subject>
-        <dc:subject>User Interfaces</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:42:55.751037+00:00"/>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:55+00:00"/>
         <meta name="calibre:title_sort" content="Web Animation Using JavaScript: Develop &amp; Design"/>
     </metadata>
     <guide>

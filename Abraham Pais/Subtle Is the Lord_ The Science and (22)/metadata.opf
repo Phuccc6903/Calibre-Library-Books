@@ -6,7 +6,7 @@
         <dc:title>Subtle Is the Lord: The Science and the Life of Albert Einstein</dc:title>
         <dc:creator opf:file-as="Pais, Abraham" opf:role="aut">Abraham Pais</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2005-08-25T19:56:54.218726+00:00</dc:date>
+        <dc:date>2005-08-25T19:56:54+00:00</dc:date>
         <dc:description>&lt;p&gt;Subtle is the Lord is widely recognized as the definitive scientific biography of Albert Einstein. The late Abraham Pais was a distinguished physicist turned historian who knew Einstein both professionally and personally in the last years of his life. His biography combines a profound understanding of Einstein's work with personal recollections from their years of acquaintance, illuminating the man through the development of his scientific thought.&lt;/p&gt;
 
 &lt;p&gt;Pais examines the formulation of Einstein's theories of relativity, his work on Brownian motion, and his response to quantum theory with authority and precision. The profound transformation Einstein's ideas effected on the physics of the turn of the century is here laid out for the serious reader. Pais also fills many gaps in what we know of Einstein's life - his interest in philosophy, his concern with Jewish destiny, and his opinions of great figures from Newton to Freud. This remarkablevolume, written by a physicist who mingled in Einstein's scientific circle, forms a timeless and classic biography of the towering figure of twentieth-century science.&lt;/p&gt;</dc:description>
@@ -15,13 +15,9 @@
         <dc:identifier opf:scheme="GOOGLE">0QYTDAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>History</dc:subject>
-        <dc:subject>Science</dc:subject>
-        <dc:subject>Biography &amp; Autobiography</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>physics</dc:subject>
+        <dc:subject>Physics</dc:subject>
         <dc:subject>Science &amp; Technology</dc:subject>
-        <dc:subject>Relativity</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:40:37.180168+00:00"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:37+00:00"/>
         <meta name="calibre:title_sort" content="Subtle Is the Lord: The Science and the Life of Albert Einstein"/>
     </metadata>
     <guide>

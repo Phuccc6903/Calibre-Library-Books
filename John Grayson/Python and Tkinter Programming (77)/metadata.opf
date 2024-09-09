@@ -6,16 +6,16 @@
         <dc:title>Python and Tkinter Programming</dc:title>
         <dc:creator opf:file-as="Grayson, John" opf:role="aut">John Grayson</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1999-03-01T19:45:07.363184+00:00</dc:date>
+        <dc:date>1999-03-01T19:45:07+00:00</dc:date>
         <dc:description>&lt;p&gt;This book includes full documentation for Tkinter, and also offers extensive examples for many real-world Python/Tkinter applications that will give programmers a quick start on their own projects.&lt;/p&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">1f1lQgAACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781884777813</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
         <dc:subject>Software Development &amp; Engineering</dc:subject>
-        <dc:subject>General</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:42:56.153613+00:00"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:56+00:00"/>
         <meta name="calibre:title_sort" content="Python and Tkinter Programming"/>
     </metadata>
     <guide>

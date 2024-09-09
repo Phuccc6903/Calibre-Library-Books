@@ -6,27 +6,20 @@
         <dc:title>Game Design: Theory &amp; Practice</dc:title>
         <dc:creator opf:file-as="Rouse, Richard" opf:role="aut">Richard Rouse</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2001-08-15T19:59:04.547880+00:00</dc:date>
+        <dc:date>2001-08-15T19:59:04+00:00</dc:date>
         <dc:description>&lt;p&gt;One of the most important but least discussed elements of a computer game is the gameplay that makes a game compelling and entertaining. Game Design: Theory &amp;amp; Practice focuses on this elusive topic and how you can ensure your title has the best gameplay possible. Richard Rouse discusses in detail key game design topics including game balancing, storytelling, non-linearity, player motivations, input/output, artificial intelligence, level design, and playtesting. This book delves into the entire breadth of interactive games, covering computer, console, and arcade titles, and spanning a variety of gaming genres including strategy, adventure, simulation, action, role-playing, sports, and wargames.&lt;/p&gt;
 
 &lt;p&gt;Follow the entire game development process, from brainstorming a game idea, establishing the focus, and determining the storytelling mode to getting the gameplay working, documenting the design, and playtesting.&lt;/p&gt;
 
 &lt;p&gt;Learn the techniques of top game designers through in-depth interviews: Chris Crawford, Balance of Power, Eastern Front (1941) Ed Logg, Asteroids, Centipede, Gauntlet Jordan Mechner, Prince of Persia, Karateka, The Last Express Sid Meier, Civilization, Pirates!, Railroad Tycoon, Gettysburg! Steve Meretzky, The Hitchhiker's Guide to the Galaxy, Planetfall Will Wright, SimCity, The SimsUnderstand the elements that make a game successful through detailed analysis of Centipede, Tetris, Loom, Myth: The Fallen Lords, and The Sims.&lt;/p&gt;</dc:description>
         <dc:publisher>Wordware Pub.</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">aIQZAQAAIAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781556227356</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aIQZAQAAIAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
-        <dc:subject>Design</dc:subject>
-        <dc:subject>Games</dc:subject>
-        <dc:subject>Languages</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Games &amp; Activities</dc:subject>
-        <dc:subject>Video &amp; Mobile</dc:subject>
-        <dc:subject>Computer Graphics</dc:subject>
-        <dc:subject>Programming</dc:subject>
+        <dc:subject>Techniques Design</dc:subject>
         <dc:subject>Software Development &amp; Engineering</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:40:25.577859+00:00"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:25+00:00"/>
         <meta name="calibre:title_sort" content="Game Design: Theory &amp; Practice"/>
     </metadata>
     <guide>

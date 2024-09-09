@@ -6,7 +6,7 @@
         <dc:title>The Moral and Political Writings of Mahatma Gandhi: Truth and Non-Violence</dc:title>
         <dc:creator opf:file-as="Gandhi, Mahatma" opf:role="aut">Mahatma Gandhi</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1986-08-15T19:57:33.488313+00:00</dc:date>
+        <dc:date>1986-08-15T19:57:33+00:00</dc:date>
         <dc:description>&lt;p&gt;Although Gandhi's books were few, his innumerable articles and extensive correspondence eventually filled the pages of his ninety-volume Collected Works, published by the Indian Government after his death. Drawn from the Collected Works, this second of three volumes presents Gandhi's seminal writings in a coherent and compact form. Volume II, which brings together Gandhi's most important writings on truth, non-violence, and human nature, offers readers a fuller and more discerning appreciation of this great man's contribution to 20th-century thought.&lt;/p&gt;</dc:description>
         <dc:publisher>Oxford University Press</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">EAxuAAAAMAAJ</dc:identifier>
@@ -14,14 +14,8 @@
         <dc:language>eng</dc:language>
         <dc:subject>History</dc:subject>
         <dc:subject>Biography &amp; Autobiography</dc:subject>
-        <dc:subject>Historical</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Linguistics</dc:subject>
-        <dc:subject>Political</dc:subject>
-        <dc:subject>Asia</dc:subject>
-        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
-        <dc:subject>South</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:40:36.334575+00:00"/>
+        <dc:subject>Art</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:36+00:00"/>
         <meta name="calibre:title_sort" content="Moral and Political Writings of Mahatma Gandhi: Truth and Non-Violence, The"/>
     </metadata>
     <guide>

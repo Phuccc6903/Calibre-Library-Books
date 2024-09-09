@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51ccf36d-5576-4535-8fc9-6f1e6c4e1f4d</dc:identifier>
+        <dc:title>The Miracle Morning (Updated and Expanded Edition): The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8 AM)</dc:title>
+        <dc:creator opf:file-as="Elrod, Hal" opf:role="aut">Hal Elrod</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-09T12:05:19.465888+00:00</dc:date>
+        <dc:description>&lt;p&gt;Start waking up to your full potential every single day with the updated and expanded edition of the groundbreaking book that has sold more than two million copies. “So much more than a book. It is a proven methodology that will help you fulfil your potential and create the life you’ve always wanted.” —Mel Robbins, New York Times bestselling author of The High 5 Habit and The 5 Second RuleGetting everything you want out of life isn’t about doing more. It’s about becoming more. Hal Elrod and The Miracle Morning have helped millions of people become the person they need to be to create the life they’ve always wanted. Now, it’s your turn. Hal’s revolutionary SAVERS method is a simple, effective step-by-step process to transform your life in as little as six minutes per day: - Silence: Reduce stress and improve mental clarity by beginning each day with peaceful, purposeful quiet - Affirmations: Reprogram your mind to overcome any fears or beliefs that are limiting your potential or causing you to suffer - Visualization: Experience the power of mentally rehearsing yourself showing up at your best each day - Exercise: Boost your mental and physical energy in as little as sixty seconds - Reading: Acquire knowledge and expand your abilities by learning from experts - Scribing: Keep a journal to deepen gratitude, gain insights, track progress, and increase your productivity by getting clear on your top priorities This updated and expanded edition has more than forty pages of new content, including: - The Miracle Evening: Optimize your bedtime and sleep to wake up every day feeling refreshed and energized for your Miracle Morning - The Miracle Life: Begin your path to inner freedom so you can truly be happy and learn to love the life you have while you create the life you want&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">138c2460-be75-4f87-b7bf-06a7ed5e017e</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JO7oEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781668060346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:50:30+00:00"/>
+        <meta name="calibre:title_sort" content="Miracle Morning (Updated and Expanded Edition): The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8 AM), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

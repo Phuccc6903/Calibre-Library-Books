@@ -8,7 +8,10 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-02T20:31:46+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta name="calibre:timestamp" content="2024-08-09T19:40:27.028338+00:00"/>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Drawing</dc:subject>
+        <dc:subject>Techniques Design</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:27+00:00"/>
         <meta name="calibre:title_sort" content="andrew-loomis-successful-drawing"/>
     </metadata>
     <guide>

@@ -6,62 +6,15 @@
         <dc:title>Advances in Space Plasma Physics: Invited Reviews of 1985 Plasma Physics College, International Centre for Theoretical Physics, Trieste, Italy</dc:title>
         <dc:creator opf:file-as="Buti, B." opf:role="aut">B. Buti</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1985-08-15T19:51:38.428203+00:00</dc:date>
+        <dc:date>1985-08-15T19:51:38+00:00</dc:date>
         <dc:publisher>World Scientific</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">uGPGAAAAIAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789971500160</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uGPGAAAAIAAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Science</dc:subject>
-        <dc:subject>electric current</dc:subject>
-        <dc:subject>particle physics</dc:subject>
-        <dc:subject>biological and medical applications</dc:subject>
-        <dc:subject>physics</dc:subject>
-        <dc:subject>friction</dc:subject>
-        <dc:subject>temperature</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
         <dc:subject>Astrophysics</dc:subject>
-        <dc:subject>circuits</dc:subject>
-        <dc:subject>linear momentum</dc:subject>
-        <dc:subject>energy</dc:subject>
-        <dc:subject>drag</dc:subject>
-        <dc:subject>bioelectricity</dc:subject>
-        <dc:subject>wave optics</dc:subject>
-        <dc:subject>vision and optical instruments</dc:subject>
-        <dc:subject>quantum physics</dc:subject>
-        <dc:subject>geometric optics</dc:subject>
-        <dc:subject>resistance</dc:subject>
-        <dc:subject>college physics</dc:subject>
-        <dc:subject>dc instruments</dc:subject>
-        <dc:subject>collisions</dc:subject>
-        <dc:subject>ac circuits</dc:subject>
-        <dc:subject>elasticity</dc:subject>
-        <dc:subject>electric potential</dc:subject>
-        <dc:subject>magnetism</dc:subject>
-        <dc:subject>uniform circular motion and gravitation</dc:subject>
-        <dc:subject>heat and transfer methods</dc:subject>
-        <dc:subject>electrical technologies</dc:subject>
-        <dc:subject>electric charge and electric field</dc:subject>
-        <dc:subject>kinematics</dc:subject>
-        <dc:subject>rotational motion and angular momentum</dc:subject>
-        <dc:subject>Ohm’s Law</dc:subject>
-        <dc:subject>statics and torque</dc:subject>
-        <dc:subject>fluid dynamics</dc:subject>
-        <dc:subject>radioactivity and nuclear physics</dc:subject>
-        <dc:subject>forces</dc:subject>
-        <dc:subject>frontiers of physics</dc:subject>
-        <dc:subject>Newton’s Laws of Motion</dc:subject>
-        <dc:subject>medical applications of nuclear physics</dc:subject>
-        <dc:subject>atomic physics</dc:subject>
-        <dc:subject>work</dc:subject>
-        <dc:subject>kinetic theory</dc:subject>
-        <dc:subject>gas laws</dc:subject>
-        <dc:subject>physics of hearing</dc:subject>
-        <dc:subject>electromagnetic waves</dc:subject>
-        <dc:subject>special relativity</dc:subject>
-        <dc:subject>oscillatory motion and waves</dc:subject>
-        <dc:subject>fluid statics</dc:subject>
-        <dc:subject>electromagnetic induction</dc:subject>
-        <dc:subject>thermodynamics</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:42:05.347293+00:00"/>
+        <dc:subject>Physics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:05+00:00"/>
         <meta name="calibre:title_sort" content="Advances in Space Plasma Physics: Invited Reviews of 1985 Plasma Physics College, International Centre for Theoretical Physics, Trieste, Italy"/>
     </metadata>
     <guide>

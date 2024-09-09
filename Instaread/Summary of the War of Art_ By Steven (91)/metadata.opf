@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2080adb8-ad43-45b7-8e8a-e5247d8db7e8</dc:identifier>
+        <dc:title>Summary of the War of Art: By Steven Pressfield - Includes Analysis</dc:title>
+        <dc:creator opf:file-as="Instaread" opf:role="aut">Instaread</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-23T12:05:12.090328+00:00</dc:date>
+        <dc:description>&lt;p&gt;Summary of The War of Art by Steven Pressfield | Includes Analysis  Preview: Steven Pressfield's The War of Art: Break Through the Blocks and Win Your Inner Creative Battles is a book dedicated to helping writers and other artists overcome creative barriers and produce valuable and satisfying work. Pressfield discusses his own artistic struggles and uses examples of artists throughout history in order to inspire and guide other creators. The biggest barrier to artistic creation is Resistance. Resistance is a negative energy that intercedes whenever a person attempts to achieve a positive goal, such as painting a picture, exercising, or making a life change. Resistance is a combination of self-doubt, self-deception, fear of change, and fear of success. On a day-to-day basis, Resistance is expressed as procrastination, as when an artist cleans the house, gets a snack, or does anything rather than sit down to work. On a larger scale, Resistance can mean that an artist abandons his or her profession, or denies his or her creative dreams...     PLEASE NOTE: This is key takeaways and analysis of the book and NOT the original book.  Inside this Instaread Summary of Influence · Overview of the book · Important People · Key Takeaways · Analysis of Key Takeaways   About the Author With Instaread, you can get the key takeaways, summary and analysis of a book in 15 minutes. We read every chapter, identify the key takeaways and analyze them for your convenience.&lt;/p&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">SIwJkAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781530711963</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:50:30+00:00"/>
+        <meta name="calibre:title_sort" content="Summary of the War of Art: By Steven Pressfield - Includes Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

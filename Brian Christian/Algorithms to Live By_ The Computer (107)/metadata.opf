@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c518509-9c9b-446f-bbe8-1eabf39b8d02</dc:identifier>
+        <dc:title>Algorithms to Live By: The Computer Science of Human Decisions</dc:title>
+        <dc:creator opf:file-as="Christian, Brian &amp; Griffiths" opf:role="aut">Brian Christian</dc:creator>
+        <dc:creator opf:file-as="Christian, Brian &amp; Griffiths" opf:role="aut">Griffiths</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-19T12:02:24.542758+00:00</dc:date>
+        <dc:description>&lt;p&gt;A fascinating exploration of how computer algorithms can be applied to our everyday lives.&lt;/p&gt;
+
+&lt;p&gt;In this dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show us how the simple, precise algorithms used by computers can also untangle very human questions. Modern life is constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? The authors explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others.&lt;/p&gt;
+
+&lt;p&gt;From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of human memory, Algorithms To Live By is full of practical takeaways to help you solve common decision-making problems and illuminate the workings of the human mind.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007547982</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">xmeJCgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T12:01:00.061840+00:00"/>
+        <meta name="calibre:title_sort" content="Algorithms to Live By: The Computer Science of Human Decisions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

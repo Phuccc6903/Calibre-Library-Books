@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b03ef4cd-c6d6-4da1-b36d-1887b619965a</dc:identifier>
+        <dc:title>Emergency Medicine PreTest Self-Assessment and Review, Second Edition: PreTest Self-Assessment and Review 2e (eBook)</dc:title>
+        <dc:creator opf:file-as="Rosh, Adam J." opf:role="aut">Adam J. Rosh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T12:05:05.442291+00:00</dc:date>
+        <dc:description>&lt;p&gt;The student tested-and-reviewed way to prep for the Emergency Medicine shelf exam and the USMLE Step 2 CK Emergency Medicine: PreTest Self-Assessment &amp;amp; Review is the perfect way to assess your knowledge of Emergency Medicine for the USMLE Step 2 CK and shelf exams. You'll find 500 USMLE-style questions and answers that address the clerkship's core competencies along with detailed explanations of both correct and incorrect answers. All questions have been reviewed by students who recently passed the boards and completed their clerkship to ensure they match the style and difficulty level of the exam.  500 USMLE-style questions and answers  Detailed explanations for right and wrong answers  Targets what you really need to know for exam success  Student tested and reviewed  Emergency Medicine: PreTest Self-Assessment &amp;amp; Review is the closest you can get to seeing the test before you take it. Great for clerkship and the USMLE Step 2 CK! Emergency Medicine: PreTest asks the right questions so you'll know the right answers. Open it and start learning what's on the test.&lt;/p&gt;</dc:description>
+        <dc:publisher>McGraw Hill Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780071598620</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">COokGyFf2tUC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:50:30+00:00"/>
+        <meta name="calibre:title_sort" content="Emergency Medicine PreTest Self-Assessment and Review, Second Edition: PreTest Self-Assessment and Review 2e (eBook)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

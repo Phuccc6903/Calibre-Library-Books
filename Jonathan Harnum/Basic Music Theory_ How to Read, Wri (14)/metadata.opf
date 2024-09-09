@@ -6,25 +6,15 @@
         <dc:title>Basic Music Theory: How to Read, Write, and Understand Written Music</dc:title>
         <dc:creator opf:file-as="Harnum, Jonathan" opf:role="aut">Jonathan Harnum</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2005-08-15T19:58:10.236326+00:00</dc:date>
+        <dc:date>2005-08-15T19:58:10+00:00</dc:date>
         <dc:description>&lt;p&gt;Updated second edition. A friendly, clearly explained primer for music theory. From what is a staff to basic chord progressions and everything in between, including key signatures, scales, modes, and much more. Each chapter and section includes a comprehensive, cross-referenced review, specially designed for optimal memorization. In addition, practical use exercises reinforce what is learned. Book contains a large glossary, index, blank staff paper, and a piano keyboard which doubles as a bookmark and is used with the reviews.&lt;/p&gt;</dc:description>
         <dc:publisher>Sol-UT Press</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">uAbxnAAACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780970751287</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uAbxnAAACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>music theory</dc:subject>
-        <dc:subject>theory</dc:subject>
-        <dc:subject>written music</dc:subject>
-        <dc:subject>Exercises</dc:subject>
-        <dc:subject>notation</dc:subject>
-        <dc:subject>music writing</dc:subject>
-        <dc:subject>musical notation</dc:subject>
-        <dc:subject>music notes</dc:subject>
-        <dc:subject>Instruction &amp; Study</dc:subject>
+        <dc:subject>Art</dc:subject>
         <dc:subject>Music</dc:subject>
-        <dc:subject>writing music</dc:subject>
-        <dc:subject>Techniques</dc:subject>
-        <meta name="calibre:timestamp" content="2024-08-09T19:40:27.271441+00:00"/>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:27+00:00"/>
         <meta name="calibre:title_sort" content="Basic Music Theory: How to Read, Write, and Understand Written Music"/>
     </metadata>
     <guide>
