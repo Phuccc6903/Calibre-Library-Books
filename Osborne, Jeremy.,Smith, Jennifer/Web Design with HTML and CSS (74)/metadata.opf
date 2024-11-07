@@ -7,6 +7,8 @@
         <dc:creator opf:file-as="Osborne, Jeremy.,Smith, Jennifer" opf:role="aut">Osborne, Jeremy.,Smith, Jennifer</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-10-25T12:03:52+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Web Design with HTML and CSS&lt;/em&gt; is a topic focused on learning how to build and style websites using two foundational technologies: &lt;strong&gt;HTML (HyperText Markup Language)&lt;/strong&gt; and &lt;strong&gt;CSS (Cascading Style Sheets)&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:language>en</dc:language>
         <dc:subject>Software Development &amp; Engineering</dc:subject>
         <dc:subject>Computers</dc:subject>

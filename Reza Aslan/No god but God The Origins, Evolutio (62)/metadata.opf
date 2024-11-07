@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">733c040a-9758-4ad8-853e-164417301a14</dc:identifier>
+        <dc:title>No god but God The Origins, Evolution, and Future of Islam</dc:title>
+        <dc:creator opf:file-as="Aslan, Reza" opf:role="aut">Reza Aslan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-28T13:08:56+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;No God but God: The Origins, Evolution, and Future of Islam&lt;/em&gt; by Reza Aslan is a comprehensive and accessible exploration of the history, beliefs, and evolution of Islam. The book seeks to offer a deeper understanding of the world's second-largest religion, addressing both its foundational principles and the ways in which it has evolved over time.&lt;/p&gt;
+&lt;p&gt;Aslan begins with an examination of the life and teachings of the Prophet Muhammad, exploring the birth of Islam in the 7th century and how it spread across the Middle East and beyond. He looks at the early development of Islamic theology, including the division between Sunni and Shia Islam, and how historical events shaped the diverse practices and interpretations within the faith.&lt;/p&gt;
+&lt;p&gt;The book also highlights the role of Islam in the modern world, discussing the challenges and conflicts facing the Muslim world today, including the rise of political Islam, the role of women in Islamic societies, and the impact of Western colonialism. Aslan argues for a reformation within Islam, emphasizing the need for Muslims to reconcile their faith with modernity and adapt to a rapidly changing global landscape.&lt;/p&gt;
+&lt;p&gt;Throughout &lt;em&gt;No God but God&lt;/em&gt;, Aslan presents a nuanced view of Islam, aiming to debunk common misconceptions and provide a more complex, humanized understanding of the religion. He balances historical analysis with personal insights, making the book both an informative and engaging read for those interested in the origins, development, and future of Islam.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:36+00:00"/>
+        <meta name="calibre:title_sort" content="No god but God The Origins, Evolution, and Future of Islam"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

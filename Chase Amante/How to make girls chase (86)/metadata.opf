@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f17ffca-fe8e-4ab0-848a-42f48f1b523b</dc:identifier>
+        <dc:title>How to make girls chase</dc:title>
+        <dc:creator opf:file-as="Amante, Chase" opf:role="aut">Chase Amante</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The book &lt;em&gt;How to Make Girls Chase&lt;/em&gt; by Chase Amante is a self-help guide focused on helping men improve their social and romantic lives, particularly in meeting and connecting with women. The author shares his personal journey of overcoming fears, insecurities, and challenges in dating, emphasizing that becoming successful with women is a skill that can be developed through practice, much like any other ability. The book offers practical advice, strategies, and techniques to help men build confidence, approach women in various social settings, and develop meaningful relationships. It focuses on self-improvement, mastery of social and seductive skills, and how these experiences can lead to greater success in both personal and professional areas of life. The ultimate message is that anyone can improve their relationships with women by putting in the work, learning from mistakes, and applying the right principles.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="How to make girls chase"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

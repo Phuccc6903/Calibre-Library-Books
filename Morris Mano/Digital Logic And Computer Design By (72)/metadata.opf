@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1ec5e55-e65c-49e1-bf78-d0d48da1e334</dc:identifier>
+        <dc:title>Digital Logic And Computer Design By M. Morris Mano ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="M. Morris Mano" opf:role="aut">Morris Mano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-13T18:23:44+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Digital Design is concerned with the design of digital electronic circuits. The subject is also known by other names such as logic design, digital logic, switching circuits, and digital systems. Digital circuits are employed in the design of systems such as digital computers, control systems, data communications, and many other applications that re- quire electronic digital hardware. This book presents the basic tools for the design of digital circuits and provides methods and procedures suitable for a variety of digital de- sign applications.&lt;/p&gt;
+&lt;p&gt;Many features of the second edition remain the same as those of the first edition. The material is still organized in the same manner. The first five chapters cover combi- national circuits. The next three chapters deal with synchronous clocked sequential cir- cuits. Asynchronous sequential circuits are introduced next. The last three chapters deal with various aspects of commercially available integrated circuits.&lt;/p&gt;
+&lt;p&gt;The second edition, however, offers several improvements over the first edition. Many sections have been rewritten to clarify the presentation. Chapters 1 through 7 and Chapter 10 have been revised by adding new up-to-date material and deleting ob- solete subjects. New problems have been formulated for the first seven chapters. These replace the problem set from the first edition. Three new experiments have been added in Chapter 11. Chapter 12, a new chapter, presents the IEEE standard graphic symbols for logic elements.&lt;/p&gt;
+&lt;p&gt;The following is a brief description of the subjects that are covered in each chapter with an emphasis on the revisions that were made in the second edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:55+00:00"/>
+        <meta name="calibre:title_sort" content="Digital Logic And Computer Design By M. Morris Mano ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

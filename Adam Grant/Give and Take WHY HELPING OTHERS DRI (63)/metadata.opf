@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63f61ce8-6d3d-48b3-8d7a-5a8e54a8ec52</dc:identifier>
+        <dc:title>Give and Take WHY HELPING OTHERS DRIVES OUR SUCCESS ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Grant, Adam" opf:role="aut">Adam Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-22T11:30:04+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Give and Take: Why Helping Others Drives Our Success&lt;/em&gt; by Adam Grant is a book that explores how our interactions with others can impact our personal and professional success. Grant introduces the concept of three types of people in the workplace: &lt;strong&gt;givers&lt;/strong&gt;, &lt;strong&gt;takers&lt;/strong&gt;, and &lt;strong&gt;matchers&lt;/strong&gt;. Givers are those who are generous with their time, knowledge, and support without expecting anything in return, while takers try to gain as much as possible from others, and matchers operate on a principle of fairness, giving only in exchange for something.&lt;/p&gt;
+&lt;p&gt;The book argues that while takers may initially succeed by prioritizing their own interests, it is often the givers who ultimately achieve long-term success and fulfillment. Grant supports this idea with research and examples from various fields, showing that helping others can create a ripple effect of goodwill, trust, and collaboration, which can lead to greater personal and professional opportunities.&lt;/p&gt;
+&lt;p&gt;Throughout &lt;em&gt;Give and Take&lt;/em&gt;, Grant demonstrates how giving without expecting immediate returns can help individuals build networks, create more meaningful relationships, and ultimately be more successful. The book challenges the traditional idea of success being driven by self-interest and offers a fresh perspective on how kindness, generosity, and collaboration can be powerful tools for achieving success in both personal and professional life.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:36+00:00"/>
+        <meta name="calibre:title_sort" content="Give and Take WHY HELPING OTHERS DRIVES OUR SUCCESS ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

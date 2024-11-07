@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29fe3544-f794-4ea9-ad57-0c51419c16d6</dc:identifier>
+        <dc:title>Python Data Analytics Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Nelli, Fabio" opf:role="aut">Fabio Nelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-20T03:31:40+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Python Data Analytics: Data Analysis and Science Using Pandas, Matplotlib, and the Python Programming Language&lt;/em&gt; is a book focused on teaching data analysis and data science using Python, with particular emphasis on the Pandas and Matplotlib libraries. These two libraries are essential tools for handling and visualizing data, making this book valuable for anyone looking to use Python for practical data analysis tasks.&lt;/p&gt;
+&lt;p&gt;The book covers the following topics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: A powerful library used for data manipulation and analysis. It includes tools for handling structured data, like tables or spreadsheets, making it easier to clean, organize, and process data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matplotlib&lt;/strong&gt;: A plotting library that allows users to create static, animated, and interactive visualizations in Python. The book demonstrates how to use it to graph and visualize complex datasets effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python Programming&lt;/strong&gt;: For those who are not yet familiar with Python, the book introduces the basics and gradually advances to more complex topics. The examples and exercises help readers understand how to apply Python to real-world data analysis tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Science&lt;/strong&gt;: The book also delves into more general data science concepts, such as how to clean data, perform statistical analysis, and interpret data for decision-making.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:02+00:00"/>
+        <meta name="calibre:title_sort" content="Python Data Analytics Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

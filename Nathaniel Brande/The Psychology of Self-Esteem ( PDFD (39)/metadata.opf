@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a426781-b816-4231-bd87-017c8ff9f748</dc:identifier>
+        <dc:title>The Psychology of Self-Esteem ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Brande, Nathaniel" opf:role="aut">Nathaniel Brande</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-04T04:29:54+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Working with Self-Esteem in Psychotherapy." A single essay cannot retrace all the steps involved in my evolving and expanding vision of the dynamics of self-esteem, but it will convey a good (if highly distilled) introduction to my more recent thinking, and it will disclose how the basic conceptual structure first presented in The Psychology of Self-Esteem still stands. To comment on one small linguistic change: in the present volume I speak of the two components of self-esteem as self-confidence and self-respect. In my later work, I speak of self-efficacy and self-respect. The reason for the change is that self-confidence is too general, too abstract, too vague. What I wanted to convey was specifically the experience of being efficacious in the face of life's challenges. I have learned what I know about self-esteem from several sources—from reasoning about human experience that is more or less available to everyone, from working with clients in psychotherapy for more than four decades and having to constantly test my ideas against the challenge of needing to achieve specific results, and from working on my own development. In The Six Pillars of Self-Esteem (which I regard as the grandchild of the present volume), I tell a number of stories about myself, about mistakes I made, and about the lessons I learned from those mistakes— all of which deepened my understanding of what strengthens self-esteem and what undermines it. It is difficult to help others grow in self-esteem if we do not understand how its dynamics operate in ourselves. One of the most important things this book makes clear is that self-esteem is not a feel-good phenomenon. Our need of it is rooted deep in our nature, and if we understand that need, we understand that it cannot be satisfied arbitrarily or capriciously by just any pursuit that might happen to attract us. Self-esteem rests on the appropriate exercise of mind, and what that means specifically is examined in the pages that follow. We will see that self esteem, rationality, perseverance, self-responsibility, and personal integrity are all intimately related. We will also see that even though others may help us or obstruct us on the path to self-esteem, especially when we are young, no one can literally give us self-esteem. It must be generated from within. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:03+00:00"/>
+        <meta name="calibre:title_sort" content="Psychology of Self-Esteem ( PDFDrive ), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

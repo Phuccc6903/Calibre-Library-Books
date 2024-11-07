@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">251eef6e-7185-4c22-b1fd-c449c799b9da</dc:identifier>
+        <dc:title>Awakening the Third Eye ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Samuel Sagan, M.D" opf:role="aut">Samuel Sagan, M.D</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-24T17:04:20+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book describes a systematic process to open the third eye. It has been written for those who cannot be satisfied with only an intellectual understanding of spiritual realities and who wish to gain access to direct experience. The development of spiritual vision requires the patient building of some new ‘organs’ of energy, of which the third eye is an essential member. These new structures are not physical, nevertheless they are very real and tangible. Once fully developed, the perceptions coming through them appear clearer, sharper and far more substantial than those coming from the physical senses. A number of techniques will be described which aim at a methodical cultivation of this new form of perception. Our approach always emphasizes the superiority of experience over mental concepts, of first-hand knowledge over belief. Truly, it is not what you presume or accept as true that will bring about a spiritual regeneration but what you experience directly. Therefore, the reader is not asked to believe what is written here but to practise the exercises. No former spiritual training or background is expected before starting the practices. I suggest that you temporarily forget all you know so that you can engage in the techniques with fresh awareness. Having shared this knowledge with hundreds of students in the courses run by the Clairvision School in Sydney, I know that it is not always those who have meditated for years who enter the field of perception most easily. To some, spiritual knowledge gives wings and provides keys to open all the doors; but to others it is more like chains preventing them from absorbing anything new. The more you are able to drop any preconceived ideas, the easier it will be to ‘see’&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:46:07+00:00"/>
+        <meta name="calibre:title_sort" content="Awakening the Third Eye ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

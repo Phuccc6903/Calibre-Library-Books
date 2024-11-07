@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34d51afe-fa56-438c-a640-bb584ecdb9dc</dc:identifier>
+        <dc:title>Law of Success (21st Century Edition) ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="HILL, NAPOLEON" opf:role="aut">NAPOLEON HILL</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-20T00:06:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;LAw OF SUCCESS IS COMPRISED OF THE KEY PRINCIPLES THAT FORM the foundation of Napoleon Hill's philosophy of personal achievement. The genesis of the principles explored in Law of Success date from the day in I908 when Napoleon Hill was assigned to write a magazine profile on steel baron and philanthropist Andrew Carnegie. During their interview Carnegie became so impressed with the young writer that what was to have been a brief interview stretched into a three-day marathon. It concluded with Carnegie offering to introduce Napoleon Hill to the most powerful men of the day in order that Hill could learn from each of them the secrets of their success. It was Carnegie's vision that, in so doing, Hill would be able to formulate a philosophy that could be used by anyone to help themselves create their own success and realize their dreams. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="Law of Success (21st Century Edition) ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

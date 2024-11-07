@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc92e765-39bd-4ddf-9d69-922c0f0f9e41</dc:identifier>
+        <dc:title>Graphic Design &amp; Printing Technology ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Fathima, P. A." opf:role="aut">Dr. P. A. Fathima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-12T10:24:53+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book is intended to serve as a ready reference for learners of vocational higher secondary schools. It offers suggested guidelines for the transaction of the concepts highlighted in the course content. It is expected that the learners achieve significant learning outcomes at the end of the course as envisaged in the curriculum if it is followed properly. In the context of the Right- based approach, quality education has to be ensured for all learners. The learner community of Vocational Higher Secondary Education in Kerala should be empowered by providing them with the best education that strengthens their competences to become innovative entrepreneurs who contribute to the knowledge society. The change of course names, modular approach adopted for the organisation of course content, work-based pedagogy and the outcome focused assessment approach paved the way for achieving the vision of Vocational Higher Secondary Education in Kerala. The revised curriculum helps to equip the learners with multiple skills matching technological advancements and to produce skilled workforce for meeting the demands of the emerging industries and service sectors with national and global orientation. The revised curriculum attempts to enhance knowledge, skills and attitudes by giving higher priority and space for the learners to make discussions in small groups, and activities requiring hands-on experience.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Techniques Design</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:40:26+00:00"/>
+        <meta name="calibre:title_sort" content="Graphic Design &amp; Printing Technology ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

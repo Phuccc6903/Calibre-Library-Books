@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d16fe36-8683-4468-b705-da8611008efc</dc:identifier>
+        <dc:title>The Golden Book of Chemistry Experiments ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Robert Brent" opf:role="aut">Robert Brent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-25T22:04:03+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The book features clear illustrations by Harry Lazarus and explains concepts like the structure of atoms, reactions between acids and bases, electrolysis, and more, all with easy-to-follow instructions. Though the book was designed to be educational and engaging, it's now out of print, and some of its experiments may be considered outdated or potentially unsafe for unsupervised experimentation, especially for children.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Chemistry</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:47+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Book of Chemistry Experiments ( PDFDrive ), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

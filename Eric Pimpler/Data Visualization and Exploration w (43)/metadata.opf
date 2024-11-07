@@ -7,6 +7,8 @@
         <dc:creator opf:file-as="Pimpler, Eric" opf:role="aut">Eric Pimpler</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-09-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Data Visualization and Exploration with R: A Practical Guide to Using R, RStudio, and Tidyverse for Data Visualization, Exploration, and Data Science Applications&lt;/em&gt; is a comprehensive guide focused on leveraging R and its powerful libraries for data analysis and visualization. The book introduces the use of RStudio as an integrated development environment (IDE) to streamline data analysis workflows. It emphasizes using the Tidyverse, a collection of R packages designed for data manipulation and visualization, to handle and explore data effectively. Topics include data wrangling, cleaning, and visualization techniques using libraries such as ggplot2 for creating high-quality visualizations, dplyr for data manipulation, and tidyr for reshaping data. The book is geared towards helping both beginners and intermediate users apply R to solve real-world data science challenges, including exploratory data analysis, statistical modeling, and creating interactive visualizations.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>UNKNOWN</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B07HM7LC41</dc:identifier>
         <dc:language>eng</dc:language>

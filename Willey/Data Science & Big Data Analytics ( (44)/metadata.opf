@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d177c031-0834-4e5f-b346-a6fb3fdcd5ab</dc:identifier>
+        <dc:title>Data Science &amp; Big Data Analytics ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Willey" opf:role="aut">Willey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-24T01:45:19+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Big Data is creating significant new opportunities for organizations to derive new value and create competitive advantage from their most valuable asset: information. For businesses, Big Data helps drive efficiency, quality, and personalized products and services, producing improved levels of customer satisfaction and profit. For scientific efforts, Big Data analytics enable new avenues of investigation with potentially richer results and deeper insights than previously available. In many cases, Big Data analytics integrate structured and unstructured data with real time feeds and queries, opening new paths to innovation and insight. This book provides a practitioner's approach to some of the key techniques and tools used in Big Data analytics. Knowledge ofthese methods will help people become active contributors to Big Data analytics projects. The book's content is designed to assist multiple stakeholders: business and data analysts looking to add Big Data analytics skills to their portfolio; database professionals and managers of business intelligence, analytics, or Big Data groups looking to enrich their analytic skills; and college graduates investigating data science as a career field. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:04+00:00"/>
+        <meta name="calibre:title_sort" content="Data Science &amp; Big Data Analytics ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

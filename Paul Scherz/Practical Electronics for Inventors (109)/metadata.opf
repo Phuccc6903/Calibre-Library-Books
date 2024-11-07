@@ -4,14 +4,16 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">dc1bc58a-0014-4434-8fe5-daa582e7b652</dc:identifier>
         <dc:title>Practical Electronics for Inventors-McGraw-Hill TAB Electronics (2000)</dc:title>
-        <dc:creator opf:file-as="Paul Scherz" opf:role="aut">Paul Scherz</dc:creator>
+        <dc:creator opf:file-as="Scherz, Paul" opf:role="aut">Paul Scherz</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Practical Electronics for Inventors&lt;/em&gt; by Paul Scherz and Simon Monk is a comprehensive guide aimed at beginners and intermediate learners interested in electronics. The book covers a wide range of fundamental concepts in electronics and provides practical insights into designing, building, and testing electronic circuits. It includes detailed explanations of components such as resistors, capacitors, transistors, diodes, and integrated circuits, along with their functions and how they are used in various applications. The book emphasizes hands-on learning, with numerous examples, diagrams, and projects that allow readers to apply what they've learned. It also covers more advanced topics such as microcontrollers, oscillators, amplifiers, and digital electronics. Overall, &lt;em&gt;Practical Electronics for Inventors&lt;/em&gt; serves as both a learning resource and a reference guide for anyone looking to explore the world of electronics and invention.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:language>en</dc:language>
         <dc:subject>Science &amp; Technology</dc:subject>
         <dc:subject>Education</dc:subject>
-        <meta name="calibre:timestamp" content="2024-09-09T12:01:00.320015+00:00"/>
-        <meta name="calibre:title_sort" content="Electronics, Practical Electronics for Inventors-McGraw-Hill TAB"/>
+        <meta name="calibre:timestamp" content="2024-09-09T12:01:00+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Electronics for Inventors-McGraw-Hill TAB Electronics (2000)"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

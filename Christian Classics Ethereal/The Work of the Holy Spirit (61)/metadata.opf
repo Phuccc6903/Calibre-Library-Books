@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ebd09ec-0370-4568-8ecd-2935c094e081</dc:identifier>
+        <dc:title>The Work of the Holy Spirit</dc:title>
+        <dc:creator opf:file-as="Ethereal, Christian Classics" opf:role="aut">Christian Classics Ethereal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;The Work of the Holy Spirit&lt;/em&gt; is a theological work that explores the role and actions of the Holy Spirit in the Christian faith. The Holy Spirit is considered the third person of the Holy Trinity (Father, Son, and Holy Spirit) in Christian doctrine, and this book typically delves into how the Spirit operates in the lives of believers and within the world.&lt;/p&gt;
+&lt;p&gt;The book addresses key aspects of the Holy Spirit’s work, including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Conviction and Regeneration&lt;/strong&gt;: How the Holy Spirit brings conviction of sin and leads individuals to salvation, transforming the believer's heart and life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empowerment and Spiritual Gifts&lt;/strong&gt;: The Spirit empowers Christians for service, giving them spiritual gifts like prophecy, healing, and teaching, which are meant to build up the church and spread the gospel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sanctification&lt;/strong&gt;: The process through which the Holy Spirit works in believers' lives to make them more like Christ, helping them live righteous lives and grow in holiness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comfort and Guidance&lt;/strong&gt;: The Holy Spirit provides comfort, peace, and guidance to believers, helping them navigate life’s challenges and make decisions aligned with God's will.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Spirit’s Presence in the Church&lt;/strong&gt;: The book also explores the collective work of the Holy Spirit within the Church, how the Spirit unites believers, and the importance of the Church as the body of Christ empowered by the Holy Spirit.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:36+00:00"/>
+        <meta name="calibre:title_sort" content="Work of the Holy Spirit, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

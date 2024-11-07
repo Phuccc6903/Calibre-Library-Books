@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58fd1059-3925-4772-a35b-33785b9dfbe0</dc:identifier>
+        <dc:title>The Power of Self-Esteem ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Brande, Nathaniel" opf:role="aut">Nathaniel Brande</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-06T00:53:12+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;The Power of Self-Esteem&lt;/em&gt; by Nathaniel Branden is a guide to understanding and cultivating healthy self-esteem, which the author argues is fundamental to personal growth, happiness, and success. In this book, Branden explains how self-esteem influences our thoughts, behaviors, and relationships. He explores how the development of self-worth impacts not only emotional well-being but also our ability to set and achieve goals, overcome challenges, and experience fulfillment in life.&lt;/p&gt;
+&lt;p&gt;Branden outlines key practices and strategies for enhancing self-esteem, including building self-awareness, practicing self-acceptance, and fostering self-compassion. He also delves into the psychological barriers that often hold individuals back from developing a positive self-image and offers insights on how to break free from these limitations. The book emphasizes the importance of taking personal responsibility and integrating self-esteem into all aspects of life.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:46:08+00:00"/>
+        <meta name="calibre:title_sort" content="Power of Self-Esteem ( PDFDrive ), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

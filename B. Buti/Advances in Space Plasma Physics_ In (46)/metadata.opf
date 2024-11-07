@@ -7,12 +7,13 @@
         <dc:creator opf:file-as="Buti, B." opf:role="aut">B. Buti</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1985-08-15T19:51:38+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Welcome to College Physics, an OpenStax College resource created with several goals in mind: accessibility, affordability, customization, and student engagement—all while encouraging learners toward high levels of learning. Instructors and students alike will find that this textbook offers a strong foundation in introductory physics, with algebra as a prerequisite. It is available for free online and in low-cost print and e-book editions. To broaden access and encourage community curation, College Physics is “open source” licensed under a Creative Commons Attribution (CC-BY) license. Everyone is invited to submit examples, emerging research, and other feedback to enhance and strengthen the material and keep it current and relevant for today’s students. You can make suggestions by contacting us at info@openstaxcollege.org. You can find the status of the project, as well as alternate versions, corrections, etc., on the StaxDash at http://openstaxcollege.org (http://openstaxcollege.org) &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>World Scientific</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789971500160</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">uGPGAAAAIAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Science &amp; Technology</dc:subject>
-        <dc:subject>Astrophysics</dc:subject>
         <dc:subject>Physics</dc:subject>
         <meta name="calibre:timestamp" content="2024-08-09T19:42:05+00:00"/>
         <meta name="calibre:title_sort" content="Advances in Space Plasma Physics: Invited Reviews of 1985 Plasma Physics College, International Centre for Theoretical Physics, Trieste, Italy"/>

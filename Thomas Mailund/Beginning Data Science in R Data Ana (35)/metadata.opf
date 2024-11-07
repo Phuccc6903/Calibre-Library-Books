@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fd316f3-3898-4a47-a741-87f9161a4574</dc:identifier>
+        <dc:title>Beginning Data Science in R Data Analysis, Visualization, and Modelling for the Data Scientist ( PDFDrive )</dc:title>
+        <dc:creator opf:file-as="Mailund, Thomas" opf:role="aut">Thomas Mailund</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-03T13:31:53+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Beginning Data Science in R: Data Analysis, Visualization, and Modelling for the Data Scientist&lt;/em&gt; is an introductory book that provides a practical approach to learning data science using R. The book focuses on the fundamental skills needed for data analysis, data visualization, and statistical modeling, all within the R programming environment. It guides readers through the process of exploring data, cleaning and transforming data, visualizing patterns and trends using packages like ggplot2, and applying statistical models to make predictions and insights. The book is designed for beginners, providing clear explanations and hands-on examples to help readers develop a strong foundation in data science.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Mathematical Analysis</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-09T19:42:01+00:00"/>
+        <meta name="calibre:title_sort" content="Beginning Data Science in R Data Analysis, Visualization, and Modelling for the Data Scientist ( PDFDrive )"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

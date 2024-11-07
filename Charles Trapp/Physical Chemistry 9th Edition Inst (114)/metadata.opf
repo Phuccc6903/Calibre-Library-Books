@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b44f6f12-beaf-4021-9286-e98fec16a490</dc:identifier>
+        <dc:title>Physical Chemistry 9th Edition Instructor's Solutions Manual to Accompany Atkins' Physical</dc:title>
+        <dc:creator opf:file-as="Author, Unknown" opf:role="aut">Charles Trapp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A classic text in physical chemistry, it explores topics such as thermodynamics, quantum mechanics, and molecular interactions, bridging concepts from both physics and chemistry. Suitable for advanced students and anyone interested in the mathematical and theoretical side of chemistry.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B00N4FSAXW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Chemistry</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-11-07T07:38:10.582461+00:00"/>
+        <meta name="calibre:title_sort" content="Physical Chemistry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
